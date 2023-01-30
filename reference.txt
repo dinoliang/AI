@@ -1,0 +1,4 @@
+OpenAI
+https://openai.com/
+
+https://steam.oxxostudio.tw/category/python/example/openai.html
